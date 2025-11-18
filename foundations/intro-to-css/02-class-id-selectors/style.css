@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color: #f7b0b0;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.medium-font-size{
+    font-size: 24px;
+}
+
+#fourth {
+    background-color:rgb(196, 245, 196);
+    font-weight: bold;
+}
